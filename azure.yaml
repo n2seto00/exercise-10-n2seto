@@ -1,0 +1,10 @@
+name: exercise-10-n2seto
+
+metadata:
+  template: vite-react-appservice@0.0.1
+
+services:
+  web:
+    project: .
+    language: ts
+    host: appservice
